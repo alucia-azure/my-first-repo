@@ -1,1 +1,1 @@
-Big CHUNGUS
+Practice account for learning GIT
